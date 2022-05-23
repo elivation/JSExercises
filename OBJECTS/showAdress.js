@@ -1,5 +1,5 @@
 const address = {
-    street:"a",
+    street:"accra",
     city:"b",
     zip:00233
 }
