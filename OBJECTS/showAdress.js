@@ -1,7 +1,7 @@
 const address = {
     street:"a",
     city:"b",
-    zip:1
+    zip:00233
 }
 
 
