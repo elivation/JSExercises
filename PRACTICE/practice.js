@@ -1,4 +1,4 @@
-const currentNumber = []
+const add_to_array = []
 
        function number(number){
             currentNumber.push(number)
